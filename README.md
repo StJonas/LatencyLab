@@ -6,7 +6,7 @@ It uses a Angular frontend and a public backend to display differnt levels of la
 ## Starting project
 
 The project can be started using the following command:
-ng serve --proxy-config proxy.conf.json
+```ng serve --proxy-config proxy.conf.json```
 
 ## Latency strategies
 
